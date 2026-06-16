@@ -89,6 +89,7 @@ pytest tests/ -v
 MIT
 
 
+
 ---
 
 ## Free vs Pro
@@ -109,8 +110,9 @@ MIT
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://gearreviewer7.gumroad.com/l/oftoa)**
+**[Get Pro Version](https://buy.stripe.com/28E9AT8v51g07BCfQ8cZf3s)**
 
+- [Buy Now (Stripe)](https://buy.stripe.com/28E9AT8v51g07BCfQ8cZf3s)
 - [Buy on Gumroad](https://gearreviewer7.gumroad.com/l/oftoa)
 - [Buy on Whop](https://whop.com/terraform-iac-notification-and-alert-orchestration-api)
 
